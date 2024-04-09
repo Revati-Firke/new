@@ -1,1 +1,2 @@
 this is the file from local folder
+i am writting some data from server dise
